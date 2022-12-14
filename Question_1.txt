@@ -1,0 +1,1 @@
+`git grep` command is used to search in the checkout branch and local files. But if the user is searching the content in one branch, but the content is stored in another branch of the repository, then he/she will not get the searching output.
